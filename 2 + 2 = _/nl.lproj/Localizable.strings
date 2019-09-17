@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  2 + 2 = ?
+
+  Created by Mac on 21.09.17.
+  Copyright © 2017 FokinMC. All rights reserved.
+*/
+
+
+/*
+ Localizable.strings
+ 2 + 2 = ?
+ 
+ Created by Mac on 19.09.17.
+ Copyright © 2017 FokinMC. All rights reserved.
+ */
+
+"When you score " = "Wanneer je scoort ";
+"point — I will write you " = "punt - ik zal je schrijven ";
+
+"Min more than Max" = "Min meer dan Max";
+"Please check one more time min and max value. Max must be more than min" = "Controleer nog een keer min en max waarde. Max moet meer dan min zijn";
+"To fix" = "Repareren";
+
+
+"Field \"Finish value\" is empty" = "Veld \"Eindwaarde\" is leeg";
+"Please set the number of points that the child must gain for successful completion of the task" = "Stel alstublieft het aantal punten in dat het kind moet winnen voor de succesvolle afronding van de taak";
+
+"You are using a number greater than 10" = "U gebruikt een getal groter dan 10";
+"If you want to learn how to count with numbers more than 10, you can buy the full version" = "Als u wilt leren hoe u met meer dan 10 cijfers kunt tellen, kunt u de volledige versie kopen";
+"More" = "Meer";
+"Cancel" = "Annuleer";
+
+"You did not enter a PIN code" = "U heeft geen pincode ingevoerd";
+"If you do not enter the PIN code then the child will be able to see the answer at any time by opening the settings" = "Als u de pincode niet invoert, dan kan het kind op elk gewenst moment het antwoord zien door de instellingen te openen";
+"Back to the menu" = "Terug naar het menu";
+"Continue without PIN" = "Ga verder zonder pincode";
+
+// повтор 9 строки
+
+"tap here" = "Klik hier";
+
+// 366 строка главного
+
+"If you choose Reset:" = "Als u Reset selecteert:";
+"You will reset all data, including pin, scores and hidden answer, and go to Setting" = "U zal alle gegevens, inclusief pin, scores en verborgen antwoord resetten, en gaan naar Instelling";
+"Reset!" = "Reset!";
+//"Cancel" = "Не сейчас";
+
+"Write here:" = "Schrijf hier:";
+"Which bonus the child will receive when he cope with the task. For example: \"Password for the iPad\", or \"Money for ice cream\"." = "Welke bonus zal het kind ontvangen wanneer hij de taak aan de orde stelt. Bijvoorbeeld: \"Wachtwoord voor de iPad\", of \"Geld voor ijs\".";
+"Ok" = "OK";
+"What is the code for ipad. For example: \"879342\", or where did you put the money for ice cream. For example: \"Under a vase of flowers\"" = "Wat is de code voor ipad. Bijvoorbeeld: \"879342\", of waar heb je het geld voor ijs gebracht. Bijvoorbeeld: \"onder een vaas bloemen\"";
+
+"How many points should the child score in order to find out the answer. Right answer +1, mistake -1" = "Hoeveel punten moet het kind scoren om het antwoord te achterhalen. Recht antwoord +1, fout -1";
+
+"Use all calculation" = "Gebruik alle berekeningen";
+"If you want to learn how to subtract, multiply and divide - buy full version." = "Als u wilt leren hoe u kunt aftrekken, vermenigvuldigen en verdelen - koop volledige versie.";
+
+
+"Incorrect Pin" = "Incorrecte pin";
+"To find out the answer, enter the correct pin, or dial " = "Om het antwoord op te lossen, voer de juiste pen in of bel ";
+" points" = " punt"; // !!!
+
+"One of the fields of min or max is empty" = "Een van de velden min of max is leeg";
+"Fill in the minimum and maximum fields" = "Vul de minimum- en maximumvelden in";
+"To fix" = "Repareren";
+
+
+// pay
+"     Hello!\n\nI wish for your child to learn how to count, as soon as possible, with the help of this app \n    \"2 + 2 = \" \nIn full version you can use any numbers, and all mathematical calculations (you will be able to add, subtract, multiply and divide numbers) You will need to purchase the full version only once and it will be always available for you  \n\n Full version without ads  \n\n Terms of Use \nhttps://goo.gl/XYYGdX \n Privacy Policy \nhttps://goo.gl/ffY7iB" = "     Hallo!\n\nIk wens uw kind om te leren hoe snel, met behulp van deze app, tellen \n    \"2 + 2 = \" \nIn volledige versie kunt u nummers gebruiken en alle wiskundige berekeningen (u kunt nummers toevoegen, aftrekken, vermenigvuldigen en verdelen). U hoeft de volledige versie slechts een keer te kopen en het zal altijd beschikbaar zijn voor u  \n\n Volledige versie zonder advertenties  \n\n Gebruiksvoorwaarden \nhttps://goo.gl/XYYGdX \n Privacybeleid \nhttps://goo.gl/ffY7iB";
+
+"Thank you!" = "Dank je!";
+"Now you can use any numbers, and any calculation" = "Nu kunt u alle nummers en eventuele berekeningen gebruiken";
+
+"Filed" = "Gearchiveerd";
+"App store declined your purchase" = "App Store heeft uw aankoop geweigerd";
+
+"Restore" = "Herstellen";
+"if you bought full version - it is restored for you." = "Als u de volledige versie hebt gekocht, wordt het voor u gerestaureerd.";

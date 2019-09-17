@@ -1,0 +1,87 @@
+
+/* Class = "UITextField"; text = "0448 (eg)"; ObjectID = "00N-jD-LLl"; */
+"00N-jD-LLl.text" = "z.B. 0448";
+
+/* Class = "UIButton"; normalTitle = "Restore"; ObjectID = "0S9-6I-DBb"; */
+"0S9-6I-DBb.normalTitle" = "Wiederherstellung";
+
+/* Class = "UILabel"; text = "X max"; ObjectID = "0eo-za-KH9"; */
+"0eo-za-KH9.text" = "X max";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "1mP-6N-Zpx"; */
+"1mP-6N-Zpx.normalTitle" = "Zurück";
+
+/* Class = "UIButton"; normalTitle = "Rate App"; ObjectID = "5Gc-X4-fek"; */
+"5Gc-X4-fek.normalTitle" = "Anhang bewerten";
+
+/* Class = "UILabel"; text = "Password, code or other"; ObjectID = "5Ma-n9-kff"; */
+"5Ma-n9-kff.text" = "Passwort, Code, etc.";
+
+/* Class = "UITextField"; text = "10"; ObjectID = "63l-Sw-94t"; */
+"63l-Sw-94t.text" = "10";
+
+/* Class = "UITextField"; text = "20"; ObjectID = "DFY-zl-svw"; */
+"DFY-zl-svw.text" = "20";
+
+/* Class = "UIButton"; normalTitle = "Buy"; ObjectID = "GPt-eQ-e2L"; */
+"GPt-eQ-e2L.normalTitle" = "Kaufen";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "IIg-fV-vdm"; */
+"IIg-fV-vdm.text" = "0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JbK-my-aQb"; */
+"JbK-my-aQb.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Menu"; ObjectID = "O2R-dH-hBl"; */
+"O2R-dH-hBl.normalTitle" = "Menü";
+
+/* Class = "UILabel"; text = "Y max"; ObjectID = "S0S-9y-Ov1"; */
+"S0S-9y-Ov1.text" = "Y max";
+
+/* Class = "UILabel"; text = "23 + 12 ="; ObjectID = "XFY-UN-0Fk"; */
+"XFY-UN-0Fk.text" = "23 + 12 =";
+
+/* Class = "UILabel"; text = "Finish value"; ObjectID = "Yvf-vd-J3Q"; */
+"Yvf-vd-J3Q.text" = "Gesamtzahl der Punkte";
+
+/* Class = "UITextField"; text = "Password for iPad (eg)"; ObjectID = "aIt-ha-U7Q"; */
+"aIt-ha-U7Q.text" = "z.B. Passwort von iPad";
+
+/* Class = "UITextField"; text = "0"; ObjectID = "bUC-jv-atx"; */
+"bUC-jv-atx.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Abrir"; ObjectID = "bmu-Jh-i1z"; */
+"bmu-Jh-i1z.normalTitle" = "Start";
+
+/* Class = "UITextField"; text = "10"; ObjectID = "fHt-Qd-JbL"; */
+"fHt-Qd-JbL.text" = "10";
+
+/* Class = "UILabel"; text = "Type of message"; ObjectID = "hPL-N5-dYQ"; */
+"hPL-N5-dYQ.text" = "Was wurde verschlüsselt?";
+
+/* Class = "UILabel"; text = "Enter Pin"; ObjectID = "jRS-FG-jy0"; */
+"jRS-FG-jy0.text" = "PIN-Code";
+
+/* Class = "UITextField"; text = "0"; ObjectID = "jXm-rb-Idh"; */
+"jXm-rb-Idh.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Check"; ObjectID = "jo6-z6-MeT"; */
+"jo6-z6-MeT.normalTitle" = "Überprüfen";
+
+/* Class = "UIButton"; normalTitle = "Restart"; ObjectID = "o7O-MZ-ifT"; */
+"o7O-MZ-ifT.normalTitle" = "Abbrechen";
+
+/* Class = "UILabel"; text = "X min"; ObjectID = "qW8-ps-KSU"; */
+"qW8-ps-KSU.text" = "X min";
+
+/* Class = "UILabel"; text = "Y min"; ObjectID = "qpW-Kh-s7T"; */
+"qpW-Kh-s7T.text" = "Y min";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sdT-OH-hU5"; */
+"sdT-OH-hU5.text" = "Label";
+
+/* Class = "UILabel"; text = "Enter Pin"; ObjectID = "sf4-lY-hMV"; */
+"sf4-lY-hMV.text" = "PIN-Code";
+
+/* Class = "UIButton"; normalTitle = "Review"; ObjectID = "wdA-Nr-Cwj"; */
+"wdA-Nr-Cwj.normalTitle" = "Schreiben Sie eine Bewertung";

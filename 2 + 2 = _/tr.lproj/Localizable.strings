@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  2 + 2 = ?
+
+  Created by Mac on 21.09.17.
+  Copyright © 2017 FokinMC. All rights reserved.
+*/
+
+
+/*
+ Localizable.strings
+ 2 + 2 = ?
+ 
+ Created by Mac on 19.09.17.
+ Copyright © 2017 FokinMC. All rights reserved.
+ */
+
+"When you score " = "Puanı aldığın zaman ";
+"point — I will write you " = "nokta - Seni yazacağım ";
+
+"Min more than Max" = "Minimum, Maksimumdan Fazla";
+"Please check one more time min and max value. Max must be more than min" = "Lütfen bir kez daha min ve max değerini kontrol edin. Maksimum minimumdan fazla olmalı";
+"To fix" = "Düzeltmek";
+
+
+"Field \"Finish value\" is empty" = "Alan \"Bitiş değeri\" boş";
+"Please set the number of points that the child must gain for successful completion of the task" = "Lütfen görevin başarıyla tamamlanması için çocuğun kazanması gereken puan sayısını ayarlayın.";
+
+"You are using a number greater than 10" = "10'dan büyük bir sayı kullanıyorsunuz";
+"If you want to learn how to count with numbers more than 10, you can buy the full version" = "Rakamları 10'dan fazla saymayı öğrenmek isterseniz tam sürümünü satın alabilirsiniz.";
+"More" = "Daha";
+"Cancel" = "İptal etmek";
+
+"You did not enter a PIN code" = "PIN kodu girmediniz";
+"If you do not enter the PIN code then the child will be able to see the answer at any time by opening the settings" = "PIN kodunu girmezseniz, çocuğunuz aygıtı açarak istediğiniz zaman cevabı görebilir.";
+"Back to the menu" = "Menüye dön";
+"Continue without PIN" = "PIN olmadan devam et";
+
+// повтор 9 строки
+
+"tap here" = "musluk";
+
+// 366 строка главного
+
+"If you choose Reset:" = "Sıfırla'yı seçerseniz:";
+"You will reset all data, including pin, scores and hidden answer, and go to Setting" = "Pin, puanlar ve gizli cevap da dahil olmak üzere tüm verileri sıfırlayacak ve Ayarlar'a gidersiniz";
+"Reset!" = "Reset!";
+//"Cancel" = "Не сейчас";
+
+"Write here:" = "Buraya yaz:";
+"Which bonus the child will receive when he cope with the task. For example: \"Password for the iPad\", or \"Money for ice cream\"." = "Görece baş ederken çocuğun hangi bonus alacağı. Örneğin: \"iPad için şifre\" veya \"Dondurma için para\".";
+"Ok" = "Tamam";
+"What is the code for ipad. For example: \"879342\", or where did you put the money for ice cream. For example: \"Under a vase of flowers\"" = "Ipad için kod nedir? Örneğin: \"879342\", ya da parayı nereye dondurma koydunuz. Örneğin: \"Bir çiçeğin vazosunun altında\"";
+
+"How many points should the child score in order to find out the answer. Right answer +1, mistake -1" = "Cevabı bulmak için kaç puan çocuk puanı gerekir. Doğru cevap +1, hata -1";
+
+"Use all calculation" = "Tüm hesaplamayı kullan";
+"If you want to learn how to subtract, multiply and divide - buy full version." = "Çıkarma, çarpma ve bölme öğrenmek istiyorsanız - tam sürüm satın alın.";
+
+
+"Incorrect Pin" = "Yanlış Pin";
+"To find out the answer, enter the correct pin, or dial " = "Cevabı öğrenmek için doğru pimi giriniz veya ";
+" points" = " makas"; // !!!
+
+"One of the fields of min or max is empty" = "Minimum veya maksimum alanlardan biri boş";
+"Fill in the minimum and maximum fields" = "Minimum ve maksimum alanları doldurun";
+"To fix" = "Düzeltmek";
+
+
+// pay
+"     Hello!\n\nI wish for your child to learn how to count, as soon as possible, with the help of this app \n    \"2 + 2 = \" \nIn full version you can use any numbers, and all mathematical calculations (you will be able to add, subtract, multiply and divide numbers) You will need to purchase the full version only once and it will be always available for you  \n\n Full version without ads  \n\n Terms of Use \nhttps://goo.gl/XYYGdX \n Privacy Policy \nhttps://goo.gl/ffY7iB" = "     Merhaba!\n\nÇocuğunuzun, bu uygulamanın yardımıyla, mümkün olan en kısa sürede nasıl sayulacağını öğrenmesini diliyorum. \n    \"2 + 2 = \" \nTam sürümde herhangi bir sayıyı ve tüm matematiksel hesaplamaları kullanabilirsiniz (sayıları ekleyebilir, çıkartabilir, çarpma ve bölme işlemlerini gerçekleştirebilirsiniz) Tam sürümü yalnızca bir kez satın almanız gerekecek ve sizin için daima mevcut olacak  \n\n Reklamsız tam sürüm  \n\n Kullanım Şartları \nhttps://goo.gl/XYYGdX \n Gizlilik Politikası \nhttps://goo.gl/ffY7iB";
+
+"Thank you!" = "teşekkür ederim!";
+"Now you can use any numbers, and any calculation" = "Artık herhangi bir sayı ve herhangi bir hesaplama kullanabilirsiniz";
+
+"Filed" = "Dosyalanmış";
+"App store declined your purchase" = "App store, satın alma işleminizi reddetti";
+
+"Restore" = "Restore";
+"if you bought full version - it is restored for you." = "tam sürüm satın aldıysanız - sizin için geri yüklenir";

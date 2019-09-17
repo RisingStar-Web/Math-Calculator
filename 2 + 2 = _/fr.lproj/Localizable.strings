@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  2 + 2 = ?
+
+  Created by Mac on 21.09.17.
+  Copyright © 2017 FokinMC. All rights reserved.
+*/
+
+
+/*
+ Localizable.strings
+ 2 + 2 = ?
+ 
+ Created by Mac on 19.09.17.
+ Copyright © 2017 FokinMC. All rights reserved.
+ */
+
+"When you score " = "Lorsque vous marquez ";
+"point — I will write you " = "point - je t'écrirai ";
+
+"Min more than Max" = "Min plus que Max";
+"Please check one more time min and max value. Max must be more than min" = "Vérifiez une fois de plus la valeur min et max. Max doit être supérieur à min.";
+"To fix" = "Réparer";
+
+
+"Field \"Finish value\" is empty" = "Le champ \"Valeur de finition\" est vide";
+"Please set the number of points that the child must gain for successful completion of the task" = "Veuillez définir le nombre de points que l'enfant doit acquérir pour réussir la tâche";
+
+"You are using a number greater than 10" = "Vous utilisez un nombre supérieur à 10";
+"If you want to learn how to count with numbers more than 10, you can buy the full version" = "Si vous souhaitez apprendre à compter avec des nombres de plus de 10, vous pouvez acheter la version complète";
+"More" = "Plus";
+"Cancel" = "Annuler";
+
+"You did not enter a PIN code" = "Vous n'avez pas saisi de code PIN";
+"If you do not enter the PIN code then the child will be able to see the answer at any time by opening the settings" = "Si vous ne saisissez pas le code PIN, l'enfant pourra voir la réponse à tout moment en ouvrant les paramètres";
+"Back to the menu" = "Retour au menu";
+"Continue without PIN" = "Continuer sans PIN";
+
+// повтор 9 строки
+
+"tap here" = "robinet";
+
+// 366 строка главного
+
+"If you choose Reset:" = "Si vous choisissez Réinitialiser:";
+"You will reset all data, including pin, scores and hidden answer, and go to Setting" = "Vous réinitialiserez toutes les données, y compris les broches, les scores et la réponse cachée, et passez à Paramétrage";
+"Reset!" = "Réinitialiser!";
+//"Cancel" = "Не сейчас";
+
+"Write here:" = "Ecrire ici:";
+"Which bonus the child will receive when he cope with the task. For example: \"Password for the iPad\", or \"Money for ice cream\"." = "Quel bonus l'enfant recevra quand il fera face à la tâche. Par exemple: \"Password for the iPad\", ou \"Money for ice cream\".";
+"Ok" = "D'accord";
+"What is the code for ipad. For example: \"879342\", or where did you put the money for ice cream. For example: \"Under a vase of flowers\"" = "Quel est le code pour ipad. Par exemple: \"879342\", ou où avez-vous mis de l'argent pour la glace. Par exemple: \"Sous un vase de fleurs\"";
+
+"How many points should the child score in order to find out the answer. Right answer +1, mistake -1" = "Combien de points l'enfant doit-il marquer afin de trouver la réponse? Réponse correcte +1, erreur -1";
+
+"Use all calculation" = "Utilisez tous les calculs";
+"If you want to learn how to subtract, multiply and divide - buy full version." = "Si vous souhaitez apprendre à soustraire, à multiplier et à diviser, achetez la version complète.";
+
+
+"Incorrect Pin" = "Pin incorrect";
+"To find out the answer, enter the correct pin, or dial " = "Pour trouver la réponse, entrez la broche correcte ou composez-la ";
+" points" = " points"; // !!!
+
+"One of the fields of min or max is empty" = "L'un des champs de min ou max est vide";
+"Fill in the minimum and maximum fields" = "Remplissez les champs minimum et maximum";
+"To fix" = "Réparer";
+
+
+// pay
+"     Hello!\n\nI wish for your child to learn how to count, as soon as possible, with the help of this app \n    \"2 + 2 = \" \nIn full version you can use any numbers, and all mathematical calculations (you will be able to add, subtract, multiply and divide numbers) You will need to purchase the full version only once and it will be always available for you  \n\n Full version without ads  \n\n Terms of Use \nhttps://goo.gl/XYYGdX \n Privacy Policy \nhttps://goo.gl/ffY7iB" = "     Bonjour!\n\nJe souhaite à votre enfant d'apprendre à compter, dès que possible, avec l'aide de cette application \n    \"2 + 2 = \" \nEn version complète, vous pouvez utiliser tous les nombres et tous les calculs mathématiques (vous pourrez ajouter, soustraire, multiplier et diviser des nombres) Vous devrez acheter la version complète une seule fois et vous sera toujours disponible  \n\n Version complète sans annonces  \n\n Conditions d'utilisation \nhttps://goo.gl/XYYGdX \n Politique de confidentialité \nhttps://goo.gl/ffY7iB";
+
+"Thank you!" = "Je vous remercie!";
+"Now you can use any numbers, and any calculation" = "Maintenant, vous pouvez utiliser n'importe quel nombre et tout calcul";
+
+"Filed" = "Classé";
+"App store declined your purchase" = "L'App Store a refusé votre achat";
+
+"Restore" = "Restaurer";
+"if you bought full version - it is restored for you." = "Si vous avez acheté une version complète, elle vous est restaurée.";

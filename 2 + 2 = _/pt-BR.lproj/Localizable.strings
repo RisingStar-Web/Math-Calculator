@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  2 + 2 = ?
+
+  Created by Mac on 21.09.17.
+  Copyright © 2017 FokinMC. All rights reserved.
+*/
+
+
+/*
+ Localizable.strings
+ 2 + 2 = ?
+ 
+ Created by Mac on 19.09.17.
+ Copyright © 2017 FokinMC. All rights reserved.
+ */
+
+"When you score " = "Quando você marcar ";
+"point — I will write you " = "ponto - vou escrever você ";
+
+"Min more than Max" = "Mín mais do que Max";
+"Please check one more time min and max value. Max must be more than min" = "Verifique mais uma vez o valor mínimo e máximo. Max deve ser mais do que min.";
+"To fix" = "Consertar";
+
+
+"Field \"Finish value\" is empty" = "Campo \"Valor final\" está vazio";
+"Please set the number of points that the child must gain for successful completion of the task" = "Defina o número de pontos que a criança deve ganhar para a conclusão bem-sucedida da tarefa";
+
+"You are using a number greater than 10" = "Você está usando um número maior que 10";
+"If you want to learn how to count with numbers more than 10, you can buy the full version" = "Se você quiser aprender a contar com números superiores a 10, você pode comprar a versão completa";
+"More" = "Mais";
+"Cancel" = "Cancelar";
+
+"You did not enter a PIN code" = "Você não inseriu um código PIN";
+"If you do not enter the PIN code then the child will be able to see the answer at any time by opening the settings" = "Se você não inserir o código PIN, a criança poderá ver a resposta a qualquer momento abrindo as configurações";
+"Back to the menu" = "Voltar ao menu";
+"Continue without PIN" = "Continue sem PIN";
+
+// повтор 9 строки
+
+"tap here" = "toque";
+
+// 366 строка главного
+
+"If you choose Reset:" = "Se você escolher Redefinir:";
+"You will reset all data, including pin, scores and hidden answer, and go to Setting" = "Você irá redefinir todos os dados, incluindo pinos, pontuação e resposta oculta, e vá para Configuração";
+"Reset!" = "Restabelecer!";
+//"Cancel" = "Не сейчас";
+
+"Write here:" = "Escreva aqui:";
+"Which bonus the child will receive when he cope with the task. For example: \"Password for the iPad\", or \"Money for ice cream\"." = "O bônus que a criança receberá quando ele lidar com a tarefa. Por exemplo: \"Senha para o iPad\", ou \"Dinheiro para sorvete\".";
+"Ok" = "Está bem";
+"What is the code for ipad. For example: \"879342\", or where did you put the money for ice cream. For example: \"Under a vase of flowers\"" = "Qual é o código para ipad. Por exemplo: \"879342\", ou onde você colocou o dinheiro para o sorvete. Por exemplo: \"Sob um vaso de flores\"";
+
+"How many points should the child score in order to find out the answer. Right answer +1, mistake -1" = "Quantos pontos a criança deve avaliar para descobrir a resposta. Resposta certa +1, erro -1";
+
+"Use all calculation" = "Use todo o cálculo";
+"If you want to learn how to subtract, multiply and divide - buy full version." = "Se quiser aprender a subtrair, multiplicar e dividir - compre a versão completa.";
+
+
+"Incorrect Pin" = "Pin incorreto";
+"To find out the answer, enter the correct pin, or dial " = "Para descobrir a resposta, digite o pino correto ou disque ";
+" points" = " pontos"; // !!!
+
+"One of the fields of min or max is empty" = "Um dos campos de min ou max está vazio";
+"Fill in the minimum and maximum fields" = "Preencha os campos mínimo e máximo";
+"To fix" = "Consertar";
+
+
+// pay
+"     Hello!\n\nI wish for your child to learn how to count, as soon as possible, with the help of this app \n    \"2 + 2 = \" \nIn full version you can use any numbers, and all mathematical calculations (you will be able to add, subtract, multiply and divide numbers) You will need to purchase the full version only once and it will be always available for you  \n\n Full version without ads  \n\n Terms of Use \nhttps://goo.gl/XYYGdX \n Privacy Policy \nhttps://goo.gl/ffY7iB" = "     Olá!\n\nDesejo que seu filho aprenda a contar, o mais rápido possível, com a ajuda deste aplicativo \n    \"2 + 2 = \" \nNa versão completa, você pode usar qualquer número e todos os cálculos matemáticos (você poderá adicionar, subtrair, multiplicar e dividir números) Você precisará comprar a versão completa apenas uma vez e estará sempre disponível para você \n\n Versão completa sem anúncios   \n\n Termos de uso \nhttps://goo.gl/XYYGdX \n Política de Privacidade \nhttps://goo.gl/ffY7iB";
+
+"Thank you!" = "Obrigado!";
+"Now you can use any numbers, and any calculation" = "Agora você pode usar qualquer número e qualquer cálculo";
+
+"Filed" = "Arquivado";
+"App store declined your purchase" = "O App Store declinou sua compra";
+
+"Restore" = "Restaurar";
+"if you bought full version - it is restored for you." = "se você comprou a versão completa - é restaurado para você.";

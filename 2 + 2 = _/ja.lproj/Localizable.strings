@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  2 + 2 = ?
+
+  Created by Mac on 21.09.17.
+  Copyright © 2017 FokinMC. All rights reserved.
+*/
+
+
+/*
+ Localizable.strings
+ 2 + 2 = ?
+ 
+ Created by Mac on 19.09.17.
+ Copyright © 2017 FokinMC. All rights reserved.
+ */
+
+"When you score " = "あなたが得点するとき ";
+"point — I will write you " = "ポイント - 私はあなたに書き込みます ";
+
+"Min more than Max" = "最大値以上の最小値";
+"Please check one more time min and max value. Max must be more than min" = "もう一度最小値と最大値を確認してください。 最大値は最小値以上でなければなりません";
+"To fix" = "修正する";
+
+
+"Field \"Finish value\" is empty" = "フィールド \"終了値\" は空です";
+"Please set the number of points that the child must gain for successful completion of the task" = "子供が仕事を成功裏に完了するために得なければならない点数を設定してください";
+
+"You are using a number greater than 10" = "あなたは10より大きい数字を使用しています";
+"If you want to learn how to count with numbers more than 10, you can buy the full version" = "あなたが10以上の数で数える方法を学びたいなら、フルバージョンを購入することができます";
+"More" = "もっと";
+"Cancel" = "キャンセル";
+
+"You did not enter a PIN code" = "あなたはPINコードを入力していません";
+"If you do not enter the PIN code then the child will be able to see the answer at any time by opening the settings" = "PINコードを入力しないと、子供はいつでも設定を開いて回答を見ることができます";
+"Back to the menu" = "メニューに戻る";
+"Continue without PIN" = "PINなしで続行する";
+
+// повтор 9 строки
+
+"tap here" = "タップ";
+
+// 366 строка главного
+
+"If you choose Reset:" = "リセットを選択した場合：";
+"You will reset all data, including pin, scores and hidden answer, and go to Setting" = "ピン、スコア、隠れた回答を含むすべてのデータをリセットし、設定に移動します";
+"Reset!" = "リセット!";
+//"Cancel" = "Не сейчас";
+
+"Write here:" = "ここに書きなさい：";
+"Which bonus the child will receive when he cope with the task. For example: \"Password for the iPad\", or \"Money for ice cream\"." = "子供がその課題に対処するときに受けるボーナス. 例えば： \"iPadのパスワード\", または \"アイスクリームのお金\".";
+"Ok" = "OK";
+"What is the code for ipad. For example: \"879342\", or where did you put the money for ice cream. For example: \"Under a vase of flowers\"" = "ipadのコードは何ですか？ 例えば \"879342\", あなたはアイスクリームのためにお金をどこに置いたのですか？ 例えば： \"花瓶の下で\"";
+
+"How many points should the child score in order to find out the answer. Right answer +1, mistake -1" = "答えを見つけるために、子供が何点を得なければならないか。 正解+1、間違い-1";
+
+"Use all calculation" = "すべての計算を使用する";
+"If you want to learn how to subtract, multiply and divide - buy full version." = "減算、乗算、除算の方法を学びたい場合は、フルバージョンを購入してください。";
+
+
+"Incorrect Pin" = "不適切なピン";
+"To find out the answer, enter the correct pin, or dial " = "答えを見つけるには、正しいピンを入力するか、ダイヤルしてください ";
+" points" = " ポイント"; // !!!
+
+"One of the fields of min or max is empty" = "minまたはmaxのフィールドの1つが空です";
+"Fill in the minimum and maximum fields" = "最小および最大フィールドを入力します。";
+"To fix" = "修正する";
+
+
+// pay
+"     Hello!\n\nI wish for your child to learn how to count, as soon as possible, with the help of this app \n    \"2 + 2 = \" \nIn full version you can use any numbers, and all mathematical calculations (you will be able to add, subtract, multiply and divide numbers) You will need to purchase the full version only once and it will be always available for you  \n\n Full version without ads  \n\n Terms of Use \nhttps://goo.gl/XYYGdX \n Privacy Policy \nhttps://goo.gl/ffY7iB" = "     こんにちは!\n\n私はあなたの子供がこのアプリの助けを借りてできるだけ早く数える方法を学ぶことを望みます \n    \"2 + 2 = \" \nフルバージョンでは、任意の数とすべての数学的計算を使用することができます（数字の加算、減算、乗算、および除算が可能です）。フルバージョンは1回のみ購入する必要があります。 \n\n広告なしのフルバージョン   \n\n 利用規約 \nhttps://goo.gl/XYYGdX \n 個人情報保護方針 \nhttps://goo.gl/ffY7iB";
+
+"Thank you!" = "ありがとうございました！!";
+"Now you can use any numbers, and any calculation" = "これで、任意の数値や計算を使用できます";
+
+"Filed" = "ファイルされた";
+"App store declined your purchase" = "App Storeで購入を拒否しました";
+
+"Restore" = "リストア";
+"if you bought full version - it is restored for you." = "フルバージョンを購入した場合、それは復元されます。";

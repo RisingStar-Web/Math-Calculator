@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  2 + 2 = ?
+
+  Created by Mac on 21.09.17.
+  Copyright © 2017 FokinMC. All rights reserved.
+*/
+
+
+/*
+ Localizable.strings
+ 2 + 2 = ?
+ 
+ Created by Mac on 19.09.17.
+ Copyright © 2017 FokinMC. All rights reserved.
+ */
+
+"When you score " = "점수를 매길 때 ";
+"point — I will write you " = "요점 - 내가 너에게 쓸거야. ";
+
+"Min more than Max" = "최대 값보다 작은 최소값";
+"Please check one more time min and max value. Max must be more than min" = "한 번 더 최소값과 최대 값을 확인하십시오. 최대 값은 최소값 이상이어야합니다..";
+"To fix" = "고치다";
+
+
+"Field \"Finish value\" is empty" = "필드 \"마침 값\"이 비어 있습니다.";
+"Please set the number of points that the child must gain for successful completion of the task" = "과제를 성공적으로 완수하기 위해 자녀가 반드시 획득해야하는 점수를 설정하십시오.";
+
+"You are using a number greater than 10" = "10보다 큰 숫자를 사용 중입니다.";
+"If you want to learn how to count with numbers more than 10, you can buy the full version" = "10보다 많은 숫자로 계산하는 방법을 배우려면 정식 버전을 구입할 수 있습니다";
+"More" = "더";
+"Cancel" = "취소";
+
+"You did not enter a PIN code" = "PIN 코드를 입력하지 않았습니다.";
+"If you do not enter the PIN code then the child will be able to see the answer at any time by opening the settings" = "PIN 코드를 입력하지 않으면 자녀가 설정을 열어 언제든지 답변을 볼 수 있습니다.";
+"Back to the menu" = "메뉴로 돌아 가기";
+"Continue without PIN" = "PIN없이 계속하기";
+
+// повтор 9 строки
+
+"tap here" = "꼭지";
+
+// 366 строка главного
+
+"If you choose Reset:" = "재설정을 선택하는 경우 :";
+"You will reset all data, including pin, scores and hidden answer, and go to Setting" = "핀, 점수 및 숨겨진 답변을 포함한 모든 데이터를 재설정하고 설정으로 이동합니다.";
+"Reset!" = "다시 놓기!";
+//"Cancel" = "Не сейчас";
+
+"Write here:" = "여기 쓰시 오:";
+"Which bonus the child will receive when he cope with the task. For example: \"Password for the iPad\", or \"Money for ice cream\"." = "그 아이가 그 일에 대처할 때 어떤 보너스를 받게 될 것인가. 예 : \"iPad 용 비밀번호\"또는 \"아이스크림 용 돈\".";
+"Ok" = "승인";
+"What is the code for ipad. For example: \"879342\", or where did you put the money for ice cream. For example: \"Under a vase of flowers\"" = "ipad의 코드는 무엇입니까? 예 : \"879342\"또는 아이스크림을 구입 한 곳은 어디입니까? 예 : \"화병 아래\"";
+
+"How many points should the child score in order to find out the answer. Right answer +1, mistake -1" = "대답을 찾으려면 몇 점의 점수를 주어야합니다. 정답 +1, 실수 -1";
+
+"Use all calculation" = "모든 계산 사용";
+"If you want to learn how to subtract, multiply and divide - buy full version." = "뺄셈, 곱셈, 나눗셈을 배우고 싶다면 정식 버전을 구입하십시오.";
+
+
+"Incorrect Pin" = "잘못된 핀";
+"To find out the answer, enter the correct pin, or dial " = "대답을 찾으려면 올바른 핀을 입력하거나 다이얼을 돌리십시오. ";
+" points" = " 전철기"; // !!!
+
+"One of the fields of min or max is empty" = "최소 또는 최대 필드 중 하나가 비어 있습니다.";
+"Fill in the minimum and maximum fields" = "최소 및 최대 입력란 채우기";
+"To fix" = "고치다";
+
+
+// pay
+"     Hello!\n\nI wish for your child to learn how to count, as soon as possible, with the help of this app \n    \"2 + 2 = \" \nIn full version you can use any numbers, and all mathematical calculations (you will be able to add, subtract, multiply and divide numbers) You will need to purchase the full version only once and it will be always available for you  \n\n Full version without ads  \n\n Terms of Use \nhttps://goo.gl/XYYGdX \n Privacy Policy \nhttps://goo.gl/ffY7iB" = "     안녕하세요!\n\n귀하의 자녀가이 앱의 도움을 받아 최대한 빨리 카운트하는 방법을 배우고 싶습니다. \n    \"2 + 2 = \" \n정식 버전에서는 모든 숫자와 모든 수학 계산을 사용할 수 있습니다 (숫자를 더하고, 빼거나, 곱하거나 나눌 수 있습니다). 정식 버전을 한 번만 구입해야하며 항상 사용할 수 있습니다  \n\n 광고가없는 정식 버전  \n\n 불가리아어 \nhttps://goo.gl/XYYGdX \n 개인 정보 정책 \nhttps://goo.gl/ffY7iB";
+
+"Thank you!" = "고맙습니다!";
+"Now you can use any numbers, and any calculation" = "이제 모든 숫자와 계산을 사용할 수 있습니다.";
+
+"Filed" = "줄로 자르는";
+"App store declined your purchase" = "App Store에서 구매를 거부했습니다.";
+
+"Restore" = "복원";
+"if you bought full version - it is restored for you." = "정식 버전을 구입하면 복원됩니다.";

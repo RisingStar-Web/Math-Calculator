@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  2 + 2 = ?
+
+  Created by Mac on 21.09.17.
+  Copyright © 2017 FokinMC. All rights reserved.
+*/
+
+
+/*
+ Localizable.strings
+ 2 + 2 = ?
+ 
+ Created by Mac on 19.09.17.
+ Copyright © 2017 FokinMC. All rights reserved.
+ */
+
+"When you score " = "Wenn Sie ";
+"point — I will write you " = " punkte erreichen, dann antworte ich Ihnen ";
+
+"Min more than Max" = "Minimum ist größer als Maximum";
+"Please check one more time min and max value. Max must be more than min" = "Bitte überprüfen Sie die minimalen und maximalen Werten, denn das Maximalwert muss größer sein als der Minimalwert";
+"To fix" = "Korrigieren";
+
+
+"Field \"Finish value\" is empty" = "Feld \"Gesamtzahl der Punkte\" leer";
+"Please set the number of points that the child must gain for successful completion of the task" = "Bitte richten Sie eine bestimmte Punktzahl ein, bei der das Kind die geheime Antwort erfährt";
+
+"You are using a number greater than 10" = "Ihr eingegebener Wert beträgt mehr als 10";
+"If you want to learn how to count with numbers more than 10, you can buy the full version" = "Wenn Sie Interesse an den Lehrgängen, ab Nummer Zehn, besitzen, müssen Sie die Vollversion erwerben.";
+"More" = "Mehr";
+"Cancel" = "Nicht jetzt";
+
+"You did not enter a PIN code" = "Sie haben die Geheimzahl nicht angegeben";
+"If you do not enter the PIN code then the child will be able to see the answer at any time by opening the settings" = "Wenn Sie keine Geheimzahl eingerichtet haben, kann das Kind jederzeit die geheime Antwort erfahren.";
+"Back to the menu" = "Zurück zum Menü";
+"Continue without PIN" = "Ohne Geheimzahl fortfahren";
+
+// повтор 9 строки
+
+"tap here" = "Drücken";
+
+// 366 строка главного
+
+"If you choose Reset:" = "Wenn Sie „Zurücksetzen“ auswählen:";
+"You will reset all data, including pin, scores and hidden answer, and go to Setting" = "Werden alle Ihre eingegebenen Daten, sowie die Geheimzahl, die erreichten Punkte und die geheime Antwort zurückgesetzt und Sie werden zurück ins Hauptmenü weitergeleitet";
+"Reset!" = "Zurücksetzen!";
+//"Cancel" = "Не сейчас";
+
+"Write here:" = "Hier schreiben:";
+"Which bonus the child will receive when he cope with the task. For example: \"Password for the iPad\", or \"Money for ice cream\"." = "Wenn das Kind die Aufgabe löst, erfährt das Kind die geheime Antwort auf eine Frage. Wie zum Beispiel \"Das Passwort für das Tablet\" oder \"Das Geheimversteck, wo sich das Geld für das Kino versteckt\"";
+"Ok" = "Ok";
+"What is the code for ipad. For example: \"879342\", or where did you put the money for ice cream. For example: \"Under a vase of flowers\"" = "Das Passwort für das Tablet z.B. \"879342\" oder Das Geheimversteck, wo sich das Geld für das Kino versteckt  z.B. \"Auf dem Tisch unter der Vase\".";
+
+"How many points should the child score in order to find out the answer. Right answer +1, mistake -1" = "Wie viele Punkte muss man erreichen, damit man die geheime Antwort erfährt: +1 für eine richtige Antwort, -1 für eine falsche Antwort";
+
+"Use all calculation" = "Nutzen Sie all Ihre mathematischen Kenntnisse";
+"If you want to learn how to subtract, multiply and divide - buy full version." = "Wenn sie das Subtrahieren, das Multiplizieren oder das Dividieren erlernen möchte, dann müssen Sie die Vollversion erwerben.";
+
+
+"Incorrect Pin" = "Die Geheimzeit ist nicht gültig";
+"To find out the answer, enter the correct pin, or dial " = "Wenn Sie die geheime Antwort erfahren möchten, dann geben Sie die Geheimzahl ein oder sammeln Sie ";
+" points" = " Punkte"; // !!!
+
+"One of the fields of min or max is empty" = "Eins der Felder „Min“ oder „Max“ ist nicht ausgefüllt";
+"Fill in the minimum and maximum fields" = "Füllen Sie die Zahlenfelder aus";
+"To fix" = "Korrigieren Sie es";
+
+
+// pay
+"     Hello!\n\nI wish for your child to learn how to count, as soon as possible, with the help of this app \n    \"2 + 2 = \" \nIn full version you can use any numbers, and all mathematical calculations (you will be able to add, subtract, multiply and divide numbers) You will need to purchase the full version only once and it will be always available for you  \n\n Full version without ads  \n\n Terms of Use \nhttps://goo.gl/XYYGdX \n Privacy Policy \nhttps://goo.gl/ffY7iB" = "     Hallo!\n\nIch möchte das Ihr Kind, so schnell wie möglich, das Rechnen erlernt und gleichzeitig dabei Spaß hat. Genau aus diesem Grund steht Ihnen die Aktualisierung \n    \"2 + 2 = \" \nzur Verfügung, welche Ihnen in der Vollversion zur Verfügung steht. Dort stehen Ihnen verschiedene Zahlen zur Verfügung, mit denen Sie das Rechnen selbst trainieren können (Zusätzlicher Zugriff auf die Bereiche Subtrahieren, Multiplizieren und Dividieren). Durch den einmaligen Kauf der Vollversion, haben Sie jeder Zeit darauf einen Zugriff.\n\n Vollversion ohne Werbung    \n\n Nutzungsvereinbarung \nhttps://goo.gl/XYYGdX \n Datenschutzerklärung \nhttps://goo.gl/ffY7iB";
+
+"Thank you!" = "Ich danke Ihnen!";
+"Now you can use any numbers, and any calculation" = "Jetzt können Sie die Vollversion nutzen";
+
+"Filed" = "Fehler";
+"App store declined your purchase" = "Der App Sore hat den Kauf abgelehnt";
+
+"Restore" = "Wiederherstellung";
+"if you bought full version - it is restored for you." = "Wenn Sie die Vollversion erworben haben, dann stellen wir für sie den Kauf wieder her.";

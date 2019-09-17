@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  2 + 2 = ?
+
+  Created by Mac on 21.09.17.
+  Copyright © 2017 FokinMC. All rights reserved.
+*/
+
+
+/*
+ Localizable.strings
+ 2 + 2 = ?
+ 
+ Created by Mac on 19.09.17.
+ Copyright © 2017 FokinMC. All rights reserved.
+ */
+
+"When you score " = "Kun pisteet ";
+"point — I will write you " = "kohta - kirjoitan sinulle ";
+
+"Min more than Max" = "Vähintään enemmän kuin Maksimi";
+"Please check one more time min and max value. Max must be more than min" = "Tarkista vielä kerran min- ja max-arvo. Maxin on oltava enemmän kuin min";
+"To fix" = "Korjata";
+
+
+"Field \"Finish value\" is empty" = "Kentän \"Lopetusarvo\" on tyhjä";
+"Please set the number of points that the child must gain for successful completion of the task" = "Määritä pisteiden määrä, jotka lapsen on saavutettava tehtävän suorittamisen onnistumiseksi";
+
+"You are using a number greater than 10" = "Käytät numeroa, joka on suurempi kuin 10";
+"If you want to learn how to count with numbers more than 10, you can buy the full version" = "Jos haluat oppia laskemaan numerot yli 10, voit ostaa täydellisen version";
+"More" = "Lisää";
+"Cancel" = "Peruuttaa";
+
+"You did not enter a PIN code" = "Et anna PIN-koodia";
+"If you do not enter the PIN code then the child will be able to see the answer at any time by opening the settings" = "Jos et anna PIN-koodia, lapsi voi nähdä vastauksen milloin tahansa avaamalla asetukset";
+"Back to the menu" = "Takaisin valikkoon";
+"Continue without PIN" = "Jatka ilman PIN-koodia";
+
+// повтор 9 строки
+
+"tap here" = "Napauta";
+
+// 366 строка главного
+
+"If you choose Reset:" = "Jos valitset Nollaa:";
+"You will reset all data, including pin, scores and hidden answer, and go to Setting" = "Palauta kaikki tiedot, mukaan lukien pin, tulokset ja piilotettu vastaus, ja siirry kohtaan Asetukset";
+"Reset!" = "Tyhjätä!";
+//"Cancel" = "Не сейчас";
+
+"Write here:" = "Kirjoita tähän:";
+"Which bonus the child will receive when he cope with the task. For example: \"Password for the iPad\", or \"Money for ice cream\"." = "Minkä bonuksen lapsi saa, kun hän selviytyy tehtävistä. Esimerkiksi: \"Salasana iPadille\" tai \"Rahaa jäätelöä\".";
+"Ok" = "kunnossa";
+"What is the code for ipad. For example: \"879342\", or where did you put the money for ice cream. For example: \"Under a vase of flowers\"" = "Mikä on ipadin koodi? Esimerkiksi: \"879342\", tai missä laitat rahaa jäätelöön. Esimerkiksi: \"Alle maljakko kukkia\"";
+
+"How many points should the child score in order to find out the answer. Right answer +1, mistake -1" = "Kuinka monta pistettä lapsen pitäisi saada saadakseen vastauksen. Oikea vastaus +1, virhe -1";
+
+"Use all calculation" = "Käytä kaikkia laskutoimituksia";
+"If you want to learn how to subtract, multiply and divide - buy full version." = "Jos haluat oppia vähentämään, kertomaan ja jakamaan - ostaa täyden version.";
+
+
+"Incorrect Pin" = "Virheellinen tappi";
+"To find out the answer, enter the correct pin, or dial " = "Jos haluat selvittää vastauksen, syötä oikea tappi tai soita ";
+" points" = " pistettä"; // !!!
+
+"One of the fields of min or max is empty" = "Yksi min- tai max-kentistä on tyhjä";
+"Fill in the minimum and maximum fields" = "Täytä vähimmäis- ja enimmäiskentät";
+"To fix" = "Korjata";
+
+
+// pay
+"     Hello!\n\nI wish for your child to learn how to count, as soon as possible, with the help of this app \n    \"2 + 2 = \" \nIn full version you can use any numbers, and all mathematical calculations (you will be able to add, subtract, multiply and divide numbers) You will need to purchase the full version only once and it will be always available for you  \n\n Full version without ads  \n\n Terms of Use \nhttps://goo.gl/XYYGdX \n Privacy Policy \nhttps://goo.gl/ffY7iB" = "     Hei!\n\nToivon, että lapsesi oppii laskemaan mahdollisimman pian tämän sovelluksen avulla \n    \"2 + 2 = \" \nTäydellisessä versiossa voit käyttää kaikkia numeroita ja kaikkia matemaattisia laskutoimituksia (voit lisätä, vähentää, monistaa ja jakaa numeroita) Sinun on ostettava koko versio vain kerran ja se on aina käytettävissäsi  \n\n Täysi versio ilman mainoksia  \n\n Käyttöehdot \nhttps://goo.gl/XYYGdX \n Tietosuojakäytäntö \nhttps://goo.gl/ffY7iB";
+
+"Thank you!" = "Kiitos!";
+"Now you can use any numbers, and any calculation" = "Nyt voit käyttää mitä tahansa numeroita ja mitä tahansa laskutoimitusta";
+
+"Filed" = "Arkistoida";
+"App store declined your purchase" = "App-store hylkäsi ostoksen";
+
+"Restore" = "Palauttaa";
+"if you bought full version - it is restored for you." = "jos ostat täydellisen version - se on palautettu sinulle.";

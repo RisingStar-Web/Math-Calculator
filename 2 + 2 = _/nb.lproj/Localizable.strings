@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  2 + 2 = ?
+
+  Created by Mac on 21.09.17.
+  Copyright © 2017 FokinMC. All rights reserved.
+*/
+
+
+/*
+ Localizable.strings
+ 2 + 2 = ?
+ 
+ Created by Mac on 19.09.17.
+ Copyright © 2017 FokinMC. All rights reserved.
+ */
+
+"When you score " = "Når du scorer ";
+"point — I will write you " = "poeng - jeg vil skrive deg ";
+
+"Min more than Max" = "Min mer enn Max";
+"Please check one more time min and max value. Max must be more than min" = "Vennligst sjekk en gang til min og maks verdi. Max må være mer enn min";
+"To fix" = "Å fikse";
+
+
+"Field \"Finish value\" is empty" = "Felt \"Fullfør verdi \" er tomt";
+"Please set the number of points that the child must gain for successful completion of the task" = "Vennligst angi antall poeng som barnet må få for vellykket gjennomføring av oppgaven";
+
+"You are using a number greater than 10" = "Du bruker et tall som er større enn 10";
+"If you want to learn how to count with numbers more than 10, you can buy the full version" = "Hvis du vil lære å telle med tall over 10, kan du kjøpe den fullstendige versjonen";
+"More" = "Mer";
+"Cancel" = "Avbryt";
+
+"You did not enter a PIN code" = "Du angav ikke en PIN-kode";
+"If you do not enter the PIN code then the child will be able to see the answer at any time by opening the settings" = "Hvis du ikke oppgir PIN-koden, vil barnet kunne se svaret når som helst ved å åpne innstillingene";
+"Back to the menu" = "Tilbake til menyen";
+"Continue without PIN" = "Fortsett uten PIN-kode";
+
+// повтор 9 строки
+
+"tap here" = "trykk";
+
+// 366 строка главного
+
+"If you choose Reset:" = "Hvis du velger Tilbakestill:";
+"You will reset all data, including pin, scores and hidden answer, and go to Setting" = "Du vil tilbakestille alle data, inkludert pin, score og skjult svar, og gå til Innstilling";
+"Reset!" = "reset!";
+//"Cancel" = "Не сейчас";
+
+"Write here:" = "Skriv her:";
+"Which bonus the child will receive when he cope with the task. For example: \"Password for the iPad\", or \"Money for ice cream\"." = "Hvilken bonus barnet vil motta når han takler oppgaven. For eksempel: \ \"Passord for iPad \", eller \"Money for ice cream \".";
+"Ok" = "Хорошо";
+"What is the code for ipad. For example: \"879342\", or where did you put the money for ice cream. For example: \"Under a vase of flowers\"" = "Hva er koden for ipad. For eksempel: \"879342 \", eller hvor satt du pengene til iskrem. For eksempel: \"Under en blomstervase \"";
+
+"How many points should the child score in order to find out the answer. Right answer +1, mistake -1" = "Hvor mange poeng skal barnet score for å finne ut svaret. Høyre svar +1, feil -1";
+
+"Use all calculation" = "Bruk all beregning";
+"If you want to learn how to subtract, multiply and divide - buy full version." = "Hvis du vil lære å trekke, multiplisere og dele - kjøp fullversjon.";
+
+
+"Incorrect Pin" = "Feil pin";
+"To find out the answer, enter the correct pin, or dial " = "For å finne ut svaret, skriv inn riktig pin, eller ring ";
+" points" = " punkter"; // !!!
+
+"One of the fields of min or max is empty" = "Ett av feltene min eller max er tomt";
+"Fill in the minimum and maximum fields" = "Fyll inn minimum og maksimum felt";
+"To fix" = "Å fikse";
+
+
+// pay
+"     Hello!\n\nI wish for your child to learn how to count, as soon as possible, with the help of this app \n    \"2 + 2 = \" \nIn full version you can use any numbers, and all mathematical calculations (you will be able to add, subtract, multiply and divide numbers) You will need to purchase the full version only once and it will be always available for you  \n\n Full version without ads  \n\n Terms of Use \nhttps://goo.gl/XYYGdX \n Privacy Policy \nhttps://goo.gl/ffY7iB" = "     Hallo!\n\nJeg ønsker at barnet ditt skal lære å telle, så snart som mulig, ved hjelp av denne appen \n    \"2 + 2 = \" \nI full versjon kan du bruke alle tall og alle matematiske beregninger (du vil kunne legge til, trekke, multiplisere og dele tall). Du må bare kjøpe den fulle versjonen én gang, og den vil alltid være tilgjengelig for deg.  \n\n Fullversjon uten annonser  \n\n Vilkår for bruk \nhttps://goo.gl/XYYGdX \n Personvernregler \nhttps://goo.gl/ffY7iB";
+
+"Thank you!" = "Takk skal du ha!";
+"Now you can use any numbers, and any calculation" = "Nå kan du bruke noen tall og enhver beregning";
+
+"Filed" = "Arkivert";
+"App store declined your purchase" = "Appbutikken avslått kjøpet ditt";
+
+"Restore" = "Restaurere";
+"if you bought full version - it is restored for you." = "hvis du kjøpte fullversjon - det blir restaurert for deg.";

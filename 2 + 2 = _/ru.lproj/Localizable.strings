@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  2 + 2 = ?
+
+  Created by Mac on 21.09.17.
+  Copyright © 2017 FokinMC. All rights reserved.
+*/
+
+
+/*
+ Localizable.strings
+ 2 + 2 = ?
+ 
+ Created by Mac on 19.09.17.
+ Copyright © 2017 FokinMC. All rights reserved.
+ */
+
+"When you score " = "Когда ты наберешь ";
+"point — I will write you " = "баллов - я напишу тебе ";
+
+"Min more than Max" = "Минимум больше чем Максимум";
+"Please check one more time min and max value. Max must be more than min" = "Пожалуйста проверьте минимальное и максимальное значения. Максимум должен быть больше Минимума";
+"To fix" = "Исправить";
+
+
+"Field \"Finish value\" is empty" = "Поле \"Сколько баллов набрать\" пустое";
+"Please set the number of points that the child must gain for successful completion of the task" = "Пожалуйста установите, сколько баллов нужно набрать ребенку, чтоб узнать секретный ответ";
+
+"You are using a number greater than 10" = "Вы ввели значение больше 10";
+"If you want to learn how to count with numbers more than 10, you can buy the full version" = "Если вы хотите использовать для обучения числа больше 10, вам нужно купить полную версию";
+"More" = "Подробнее";
+"Cancel" = "Не сейчас";
+
+"You did not enter a PIN code" = "Вы не ввели Пин-код";
+"If you do not enter the PIN code then the child will be able to see the answer at any time by opening the settings" = "Если вы не установите Пин-код, ребенок в любой момент сможет узнать секретный ответ, посмотрев его в меню";
+"Back to the menu" = "Назад в меню";
+"Continue without PIN" = "Продолжить без Пин";
+
+// повтор 9 строки
+
+"tap here" = "жми";
+
+// 366 строка главного
+
+"If you choose Reset:" = "Если вы выберите Сброс:";
+"You will reset all data, including pin, scores and hidden answer, and go to Setting" = "Вы сбросите все введенные данные, включая Пин-код, набранные баллы, секретный ответ и перейдёте в главное меню";
+"Reset!" = "Сброс!";
+//"Cancel" = "Не сейчас";
+
+"Write here:" = "Напишите тут:";
+"Which bonus the child will receive when he cope with the task. For example: \"Password for the iPad\", or \"Money for ice cream\"." = "Секретный ответ на какой вопрос получит ребенок, когда выполнит задание. Например: \"Пароль от планшета\", или \"Где деньги на кино\".";
+"Ok" = "Хорошо";
+"What is the code for ipad. For example: \"879342\", or where did you put the money for ice cream. For example: \"Under a vase of flowers\"" = "Код от планшета. Например: \"879342\", или где лежат деньги на кино. Например: \"На столе под вазой\"";
+
+"How many points should the child score in order to find out the answer. Right answer +1, mistake -1" = "Сколько баллов нужно набрать, чтобы узнать секретный ответ. Правильный ответ +1, Не правильный -1";
+
+"Use all calculation" = "Пользуйтесь всеми действиями";
+"If you want to learn how to subtract, multiply and divide - buy full version." = "Если вы хотите научится как вычитать, умножать и делить - вам нужно купить полную версию.";
+
+
+"Incorrect Pin" = "Не верный Пин-код";
+"To find out the answer, enter the correct pin, or dial " = "Чтобы узнать секретный ответ - введите правильный Пин-код, или наберите ";
+" points" = " баллов"; // !!!
+
+"One of the fields of min or max is empty" = "Одно из полей Min или Max пустое";
+"Fill in the minimum and maximum fields" = "Заполните поля значений";
+"To fix" = "Исправить";
+
+
+// pay
+"     Hello!\n\nI wish for your child to learn how to count, as soon as possible, with the help of this app \n    \"2 + 2 = \" \nIn full version you can use any numbers, and all mathematical calculations (you will be able to add, subtract, multiply and divide numbers) You will need to purchase the full version only once and it will be always available for you  \n\n Full version without ads  \n\n Terms of Use \nhttps://goo.gl/XYYGdX \n Privacy Policy \nhttps://goo.gl/ffY7iB" = "     Здравствуйте!\n\nЯ хочу, чтоб ваш ребенок как можно быстрее и интереснее научился считать. Для этого сделано приложение \n    \"2 + 2 = \" \nВ полной версии вы сможете использовать любые числа для тренировки счета, а так же все простые математические действия (будут доступны дополнительно: умножение, вычитание и деление). Покупка совершается один раз и доступна для вас всегда.  \n\nПолная версия без рекламы    \n\n Правила использования \nhttps://goo.gl/XYYGdX \n Политика конфиденциальности \nhttps://goo.gl/ffY7iB";
+
+"Thank you!" = "Благодарю!";
+"Now you can use any numbers, and any calculation" = "Теперь вы можете использовать любые числа и действия";
+
+"Filed" = "Что-то пошло не так";
+"App store declined your purchase" = "App Store отклонил покупку";
+
+"Restore" = "Восстановление";
+"if you bought full version - it is restored for you." = "Если вы покупали полную версию - мы восстановим покупки для вас";

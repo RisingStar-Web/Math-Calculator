@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  2 + 2 = ?
+
+  Created by Mac on 21.09.17.
+  Copyright © 2017 FokinMC. All rights reserved.
+*/
+
+
+/*
+ Localizable.strings
+ 2 + 2 = ?
+ 
+ Created by Mac on 19.09.17.
+ Copyright © 2017 FokinMC. All rights reserved.
+ */
+
+"When you score " = "När du gör mål ";
+"point — I will write you " = "punkt - jag ska skriva dig ";
+
+"Min more than Max" = "Min mer än Max";
+"Please check one more time min and max value. Max must be more than min" = "Vänligen kolla en mer tid min och max värde. Max måste vara mer än min";
+"To fix" = "Att fixa";
+
+
+"Field \"Finish value\" is empty" = "Fält \"Slutför värde \" är tomt";
+"Please set the number of points that the child must gain for successful completion of the task" = "Ange det antal poäng som barnet måste få för framgångsrikt slutförande av uppgiften";
+
+"You are using a number greater than 10" = "Du använder ett nummer som är större än 10";
+"If you want to learn how to count with numbers more than 10, you can buy the full version" = "Om du vill lära dig hur man räknar med siffror över 10, kan du köpa hela versionen";
+"More" = "Mer";
+"Cancel" = "Annullera";
+
+"You did not enter a PIN code" = "Du angav inte en PIN-kod";
+"If you do not enter the PIN code then the child will be able to see the answer at any time by opening the settings" = "Om du inte anger PIN-koden kan barnet när som helst se svaret genom att öppna inställningarna";
+"Back to the menu" = "Tillbaka till menyn";
+"Continue without PIN" = "Fortsätt utan PIN-kod";
+
+// повтор 9 строки
+
+"tap here" = "Tryck här";
+
+// 366 строка главного
+
+"If you choose Reset:" = "Om du väljer Återställ:";
+"You will reset all data, including pin, scores and hidden answer, and go to Setting" = "Du återställer all data, inklusive stift, poäng och doldt svar och går till Inställning";
+"Reset!" = "Återställa!";
+//"Cancel" = "Не сейчас";
+
+"Write here:" = "Skriv här:";
+"Which bonus the child will receive when he cope with the task. For example: \"Password for the iPad\", or \"Money for ice cream\"." = "Vilken bonus barnet kommer att få när han klarar av uppgiften. Till exempel: \"Lösenord för iPad\", eller \"Pengar för glass\".";
+"Ok" = "Хорошо";
+"What is the code for ipad. For example: \"879342\", or where did you put the money for ice cream. For example: \"Under a vase of flowers\"" = "Vad är koden för ipad. Till exempel: \"879342\", eller var satte du pengarna för glass. Till exempel: \"Under en vas av blommor\"";
+
+"How many points should the child score in order to find out the answer. Right answer +1, mistake -1" = "Hur många poäng ska barnet göra för att få reda på svaret. Rätt svar +1, misstag -1";
+
+"Use all calculation" = "Använd all beräkning";
+"If you want to learn how to subtract, multiply and divide - buy full version." = "Om du vill lära dig att subtrahera, multiplicera och dela upp - köp fullversion.";
+
+
+"Incorrect Pin" = "Felaktig PIN-kod";
+"To find out the answer, enter the correct pin, or dial " = "För att få reda på svaret, skriv in rätt stift eller ringa ";
+" points" = " poäng"; // !!!
+
+"One of the fields of min or max is empty" = "Ett av fälten min eller max är tomt";
+"Fill in the minimum and maximum fields" = "Fyll i de minsta och maximala fälten";
+"To fix" = "Att fixa";
+
+
+// pay
+"     Hello!\n\nI wish for your child to learn how to count, as soon as possible, with the help of this app \n    \"2 + 2 = \" \nIn full version you can use any numbers, and all mathematical calculations (you will be able to add, subtract, multiply and divide numbers) You will need to purchase the full version only once and it will be always available for you  \n\n Full version without ads  \n\n Terms of Use \nhttps://goo.gl/XYYGdX \n Privacy Policy \nhttps://goo.gl/ffY7iB" = "     Hallå!\n\nJag önskar ditt barn att lära sig hur man räknar, så snart som möjligt, med hjälp av den här appen \n    \"2 + 2 = \" \nI fullversion kan du använda några siffror och alla matematiska beräkningar (du kan lägga till, subtrahera, multiplicera och dela upp siffror). Du måste bara köpa den fullständiga versionen en gång och det kommer alltid att vara tillgängligt för dig  \n\n Fullversion utan annonser  \n\n Villkor \nhttps://goo.gl/XYYGdX \n Integritetspolicy \nhttps://goo.gl/ffY7iB";
+
+"Thank you!" = "Tack!";
+"Now you can use any numbers, and any calculation" = "Nu kan du använda några siffror och alla beräkningar";
+
+"Filed" = "Arkiverat";
+"App store declined your purchase" = "Appbutiken avböjde ditt köp";
+
+"Restore" = "Återställa";
+"if you bought full version - it is restored for you." = "om du köpte fullversion - det återställs för dig.";
